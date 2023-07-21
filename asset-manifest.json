@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/GiraEveryWhere/static/css/main.4f1c3c62.css",
-    "main.js": "/GiraEveryWhere/static/js/main.b7ad95f1.js",
+    "main.css": "/GiraEveryWhere/static/css/main.543cf0a5.css",
+    "main.js": "/GiraEveryWhere/static/js/main.eb65617d.js",
     "index.html": "/GiraEveryWhere/index.html",
-    "main.4f1c3c62.css.map": "/GiraEveryWhere/static/css/main.4f1c3c62.css.map",
-    "main.b7ad95f1.js.map": "/GiraEveryWhere/static/js/main.b7ad95f1.js.map"
+    "main.543cf0a5.css.map": "/GiraEveryWhere/static/css/main.543cf0a5.css.map",
+    "main.eb65617d.js.map": "/GiraEveryWhere/static/js/main.eb65617d.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f1c3c62.css",
-    "static/js/main.b7ad95f1.js"
+    "static/css/main.543cf0a5.css",
+    "static/js/main.eb65617d.js"
   ]
 }
