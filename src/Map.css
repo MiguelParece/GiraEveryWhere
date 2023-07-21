@@ -1,0 +1,97 @@
+.map-container {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.sidebarStyle {
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 12px;
+    background-color: #404040;
+    color: #ffffff;
+    z-index: 1 !important;
+    padding: 6px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+
+.map-container {
+    position: fixed !important;
+    height: 100% !important;
+}
+
+/* Map.css */
+
+.mapboxgl-directions-control .directions-control .directions-control-inputs,
+.mapboxgl-directions-control .directions-control .directions-route-summary {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
+
+.mapboxgl-directions-control .directions-control .directions-route-summary {
+    background-color: #f8f8f8;
+    border-radius: 4px;
+    padding: 8px;
+    margin-bottom: 8px;
+}
+
+.mapboxgl-directions-control .directions-control .directions-route-summary .route-summary-info {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.mapboxgl-directions-control .directions-control .directions-route-summary .route-summary-info .info-icon {
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    background-color: #007bff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-weight: bold;
+}
+
+.mapboxgl-directions-control .directions-control .directions-route-summary .route-summary-info .info-text {
+    flex: 1;
+}
+
+.mapboxgl-directions-control .directions-control .directions-route-summary .route-summary-info .info-text .info-label {
+    font-weight: bold;
+}
+
+.mapboxgl-directions-control .directions-control .directions-instructions {
+    background-color: #fff;
+    border-radius: 4px;
+    padding: 8px;
+}
+
+.mapboxgl-directions-control .directions-control .directions-instructions .instructions {
+    margin-top: 8px;
+}
+
+.mapboxgl-directions-control .directions-control .directions-instructions .instructions p {
+    margin: 4px 0;
+}
+
+.mapboxgl-directions-control .directions-control .directions-instructions .instructions .maneuver-step {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+}
+
+.mapboxgl-directions-control .directions-control .directions-instructions .instructions .maneuver-step .maneuver-icon {
+    width: 24px;
+    height: 24px;
+}
+
+.mapboxgl-directions-control .directions-control .directions-instructions .instructions .maneuver-step .maneuver-text {
+    flex: 1;
+}
