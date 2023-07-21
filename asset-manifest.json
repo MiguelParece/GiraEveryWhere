@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GiraEveryWhere/static/css/main.4f1c3c62.css",
+    "main.js": "/GiraEveryWhere/static/js/main.b7ad95f1.js",
+    "index.html": "/GiraEveryWhere/index.html",
+    "main.4f1c3c62.css.map": "/GiraEveryWhere/static/css/main.4f1c3c62.css.map",
+    "main.b7ad95f1.js.map": "/GiraEveryWhere/static/js/main.b7ad95f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f1c3c62.css",
+    "static/js/main.b7ad95f1.js"
+  ]
+}
