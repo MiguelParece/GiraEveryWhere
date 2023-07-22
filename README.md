@@ -12,7 +12,8 @@ This project was made using [Create React App](https://github.com/facebook/creat
 
 ## Check it out
 
-Running in GitHub Pages. Make sure to use a browser that blocks Cors.
+Running in GitHub Pages. Make sure to use a browser that blocks CORS.  
+
 site : https://miguelparece.github.io/GiraEveryWhere/
 
 ## HOW TO RUN
