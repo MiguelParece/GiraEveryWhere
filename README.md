@@ -1,6 +1,11 @@
 # GiraEveryWhere Lisbon
 
-A personal project I made to help me commute in Lisbon using the Gira Bike System. The premisse is simple, just double-click the map to select an Origin and a Destination and a Route will be shown in the Map with the estimated trip duration.
+![image](https://github.com/MiguelParece/GiraEveryWhere/assets/90103455/c8f5625e-2635-4d8b-9c8d-2e35b914eec1)
+
+![image](https://github.com/MiguelParece/GiraEveryWhere/assets/90103455/0b40fc7c-b14b-4549-b3a5-935b8acbe404)
+
+
+A personal project I made to help me commute in Lisbon using the Gira Bike System. The premisse is simple, just double-click the map to select an Origin and a Destination and a Route between the closest available stations will be shown in the Map with the estimated trip duration.
 
 This project was made using [Create React App](https://github.com/facebook/create-react-app), [Mapbox](https://www.mapbox.com) and [Emel's Open Data](https://emel.city-platform.com/opendata/).
 
