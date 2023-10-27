@@ -25,7 +25,7 @@ const Map = () => {
         const getStations = async () => {
             try {
 
-                const response = await axios.get("https://cors-anywhere.herokuapp.com/https://opendata.emel.pt/cycling/gira/station/availability");
+                const response = await axios.get("https://web-production-48997.up.railway.app/https://opendata.emel.pt/cycling/gira/station/availability");
                 const stations = response.data.features;
                 setStations(stations);
                 setStationsLoaded(true);
