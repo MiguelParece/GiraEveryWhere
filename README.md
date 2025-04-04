@@ -1,4 +1,8 @@
 # GiraEveryWhere Lisbon
+
+### Update
+    Unfortunately, the API I was using to get the bike stations is no longer available. I will try to find another one to make this project work again.
+
 A personal project I made to help me commute in Lisbon using the Gira Bike System. The premise is simple, just double-click the map to select an Origin and a Destination and a Route between the closest available stations will be shown in the Map with the estimated trip duration.
 
 ![image](https://github.com/MiguelParece/GiraEveryWhere/assets/90103455/c8f5625e-2635-4d8b-9c8d-2e35b914eec1)
